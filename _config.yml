@@ -1,0 +1,30 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: A journey into functional programming wonders, especially Clojure and Clojurescript
+email: raphael.boukara@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+   A journey into functional programming wonders, especially Clojure and Clojurescript. Clojure and clojurescript repl. live coding. gist. dynamic code.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+github_username_rb:  raphaelboukara
+twitter_username_rb: RaphaelBoukara
+email_rb: raphael.boukara@gmail.com
+
+github_username_ys:  viebel
+twitter_username_ys: viebel
+email_ys: viebel@gmail.com
+
+url: "http://blog.klipse.tech/" # the base hostname & protocol for your site
+author: Raphael Boukara
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-sitemap

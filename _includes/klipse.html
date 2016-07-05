@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="http://app.klipse.tech/css/codemirror.css">
+
+<script>
+    window.klipse_settings = {
+        selector: '.language-klipse',
+        selector_eval_js: '.language-klipse-eval-js',
+        selector_eval_php: '.language-klipse-eval-php',
+        selector_eval_ruby: '.language-klipse-eval-ruby',
+        selector_js: '.language-klipse-js'
+    };
+</script>
+{% if page.ruby  %}
+<script src="http://cdn.opalrb.org/opal/current/opal.min.js"></script>
+<script src="http://cdn.opalrb.org/opal/current/opal-parser.min.js"></script>
+{% endif %}
+{% if page.php  %}
+<script src="https://asmblah.github.io/uniter/dist/uniter.js"></script>
+{% endif %}
+{% if page.minified_plugin  %}
+<script src="http://app.klipse.tech/plugin_prod/js/klipse_plugin.min.js?v=1.7.0"></script>
+{% else %}
+<script src="http://app.klipse.tech/plugin/js/klipse_plugin.js?v=1.8.0"></script>
+<!--script src="http://localhost:5014/plugin/js/klipse_plugin.js?"></script-->
+{% endif %}
