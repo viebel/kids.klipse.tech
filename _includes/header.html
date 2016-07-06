@@ -2,30 +2,6 @@
 <nav class="light-blue codemirror" role="navigation">
   <div class="container">
     <div class="nav-wrapper"><a id="logo-container" href="/" class="brand-logo">{{ site.title }}</a>
-      <a href="#" data-activates="mobile-menu" class="button-collapse"><i class="material-icons">menu</i></a>
-        <ul class="right hide-on-med-and-down">
-          {% for item in site.data.navigation %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-          {% endfor %}
-
-          {% if site.github.status == true %}
-            <li>
-              <a class="github-button" href="https://github.com/{{ site.github.user }}/{{ site.github.repository }}" data-icon="octicon-star" data-style="mega" data-count-href="/{{ site.github.user }}/{{ site.github.repository }}/stargazers" data-count-api="/repos/{{ site.github.user }}/{{ site.github.repository }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ site.github.user }}/{{ site.github.repository }} on GitHub">Star</a>
-            </li>
-          {% endif %}
-
-        </ul>
-        <ul class="side-nav" id="mobile-menu">
-          {% for item in site.data.navigation %}
-            <li><a href="{{ item.url | prepend: site.github.url }}">{{ item.title }}</a></li>
-          {% endfor %}
-
-          {% if site.github.status == true %}
-            <li style="padding-left: 25px;">
-              <a class="github-button" href="https://github.com/{{ site.github.user }}/{{ site.github.repository }}" data-icon="octicon-star" data-style="mega" data-count-href="/{{ site.github.user }}/{{ site.github.repository }}/stargazers" data-count-api="/repos/{{ site.github.user }}/{{ site.github.repository }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ site.github.user }}/{{ site.github.repository }} on GitHub">Star</a>
-            </li>
-          {% endif %}
-        </ul>
     </div>
   </div>
 </nav>

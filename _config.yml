@@ -17,11 +17,7 @@ sass:
   sass_dir: assets/css
   style: compressed
 markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
 gems:
-- jekyll-paginate
+    - jekyll-paginate
 exclude:
-- vendor
+    - vendor
