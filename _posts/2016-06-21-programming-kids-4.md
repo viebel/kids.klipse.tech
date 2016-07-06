@@ -29,9 +29,9 @@ The computer displays only the result of the evaluation of `(* 7 8)`.
 In this chapter, you are going to learn how to tell the computer to display the result of several expressions. In computer language, it is called a `list` of expression.
 
 
-![Organized](/assets/shopping-list.jpg)
+![Organized](/assets/images/shopping-list.jpg)
 
-# A new friend: `list`
+# A new friend: list
 
 In order to tell the computer to evaluate several expressions, you need to use the operation named `list` and as the operands the expressions that you want to evaluate.
 
@@ -92,7 +92,7 @@ Like this:
 
 
 
-#Exercises
+# Exercises
 
 
 A. Display `2*3`, `2*4` and `2*5`.

@@ -16,7 +16,7 @@ In the [previous chapter]({% post_url 2016-01-01-programming-kids-1%}), you have
 
 In this chapter, you are going to learn how to compose **nested** expressions.
 
-![Russian Dolls](/assets/russian_dolls.jpg)
+![Russian Dolls](/assets/images/russian_dolls.jpg)
 
 # Nested Expressions
 

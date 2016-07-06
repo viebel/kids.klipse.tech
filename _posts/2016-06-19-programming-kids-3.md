@@ -20,7 +20,7 @@ But before that, you need to understand why it is important to have the ability 
 
 When you name expressions, computer programming is more organized.
 
-![Organized](/assets/organized.jpg)
+![Organized](/assets/images/organized.jpg)
 
 # The problem: Without naming expressions, it's sometimes a mess
 

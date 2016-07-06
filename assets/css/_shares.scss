@@ -1,0 +1,29 @@
+.share-page {
+  .fa {
+    font-size: 1.2em;
+  }
+
+  a.share-linkedin:hover {
+    color: #0077B5 !important;
+    text-decoration: none;
+  }
+  .fa-linkedin-square:hover {
+    color: #0077B5 !important;
+  }
+
+  a.share-twitter:hover {
+    color: #55ACEE !important;
+    text-decoration: none;
+  }
+  .fa-twitter-square:hover {
+    color: #55ACEE !important;
+  }
+
+  a.share-google:hover {
+    color: #DC4E41 !important;
+    text-decoration: none;
+  }
+  .fa-google-plus-square:hover {
+    color: #DC4E41 !important;
+  }
+}

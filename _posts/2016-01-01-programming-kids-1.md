@@ -17,7 +17,7 @@ Computer Programming is to let the computer know what we want it to execute.
 Computer understands only a special language. When you want to communicate with your friends, you use human languages like english, french or spanish. When you want to communicate with a computer you use computer languages like ruby, python or clojure. All of them are examples of computer programming languages.
 
 
-![Calculator](/assets/calc.jpg)
+![Calculator](/assets/images/calc.jpg)
 
 
 Enough introduction, let's start to do some real programming.

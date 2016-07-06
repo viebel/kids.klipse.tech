@@ -1,16 +1,53 @@
 ---
+title: ''
 layout: default
+draft: false
+
 ---
+<div class="section">
+  <section class="fixed v80" style='display: block; background-image: url("assets/images/{{ site.home_bgfile  }}");'>
+    <div class="container container-wide container-header">
+      <br><br>
+      <div class="white-text z-depth-5 radius-border opacity-background title-shadow">
+        <h1 class="header center">{{ site.title }}</h1>
+        <div class="row center">
+          <h5 class="header col s12 light">{{ site.description }}</h5>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<div class="home">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+  <section class="v100">
+    <div class="container container-wide">
+
+      {% for post in site.posts %}
+        <ul class="collection with-header">
+          <li class="collection-header">
+            <div>
+              <a class="post-link teal-text post-title" href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+          </li>
+        </ul>
+      {% endfor %}
+
+    </div>
+  </section>
+
+    <div class="containter containter-wide">
+      <ul class="pagination center-align teal-text">
+        {% if paginator.previous_page %}
+          <li class="waves-effect"><a href="{{ paginator.previous_page_path | site.github.url}}"><i class="material-icons">chevron_left</i></a></li>
+        {% else %}
+          <li class="waves-effect"><i class="material-icons">chevron_left</i></li>
+        {% endif %}
+          <li class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</li>
+        {% if paginator.next_page %}
+          <li class="waves-effect"><a href="{{ paginator.next_page_path | site.github.url }}" ><i class="material-icons">chevron_right</i></a></li>
+        {% else %}
+          <li class="waves-effect"><i class="material-icons">chevron_right</i></li>
+        {% endif %}
+      </ul>
+    </div>
 
 </div>
