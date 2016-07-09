@@ -1,0 +1,17 @@
+.PageNavigation {
+  position: relative;
+  width: 100%;
+  min-height: 50px;
+}
+
+.PageNavigation a {
+  width: 50%;
+  position: absolute;
+}
+
+.PageNavigation .next {
+  width: 50%;
+  position: absolute;
+  right: 0px;
+}
+

@@ -8,6 +8,18 @@ layout: default
         <section class="v100">
             <br/>
             <br/>
+<div class ="PageNavigation">
+                            {% if page.previous %}
+                            <a class="prev" href="{{ page.previous.url }}">
+                                {{ page.previous.title }}                        </a>
+                        {% endif %}
+                            {% if page.next %}
+                            <a class="next" href="{{ page.next.url }}">
+                                {{page.next.title}}
+                        </a>
+                        {% endif %}
+                    </div>
+                        <hr>
             <div class="post-header">
                 <h2 class="center-align post-title" itemprop="name headline">{{ page.title }}</h2>
             </div>
@@ -16,6 +28,22 @@ layout: default
                 <div class="container markdown-file post-content" itemprop="articleBody">
                     <div class="post">
                         {{ content }}
+                        <p>
+                        Send us a screenshot with your programs to <a href="mailto:viebel@gmail.com?Subject={{page.title | url_encode}}">viebel@gmail.com</a>.
+</p>
+                        <hr>
+                        <div class ="PageNavigation">
+                            {% if page.previous %}
+                            <a class="prev" href="{{ page.previous.url }}">
+                                {{ page.previous.title }}                        </a>
+                        {% endif %}
+                            {% if page.next %}
+                            <a class="next" href="{{ page.next.url }}">
+                                {{page.next.title}}
+                        </a>
+                        {% endif %}
+
+                    </div>
                         {% include comments.html %}
                     </div>
                 </div>

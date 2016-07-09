@@ -156,5 +156,3 @@ C. Calculate `2*3 + 4*5`. Then multiply the result by `4 + 5`. Then multiply the
 
 You should get: `4446`.
 
-Send us a screenshot with your programs to [viebel@gmail.com](mailto:viebel@gmail.com?Subject=Chapter%203).
-

@@ -11,7 +11,6 @@ guid: "C6CCCB84-BD23-4A61-B5E2-3A209A9EE2AF"
 author: "@viebel"
 ---
 
-
 In the [previous chapter]({% post_url 2016-01-01-programming-kids-1%}), you have learned to compose **simple** expressions in computer programming language.
 
 In this chapter, you are going to learn how to compose **nested** expressions.
@@ -99,9 +98,4 @@ E. 240
 F. 320
 
 
-Send us a screenshot with your programs to [viebel@gmail.com](mailto:viebel@gmail.com?Subject=Chapter%202).
 
-Now, you are ready for [chapter 3]({% post_url 2016-06-19-programming-kids-3 %}).
-
----
-[app-url]: http://app.klipse.tech?blog=klipse

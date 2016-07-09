@@ -12,7 +12,7 @@ author: "@viebel"
 ---
 
 
-C'omputer Programming is to let the computer know what we want it to execute.
+Computer Programming is to let the computer know what we want it to execute.
 
 Computer understands only a special language. When you want to communicate with your friends, you use human languages like english, french or spanish. When you want to communicate with a computer you use computer languages like ruby, python or clojure. All of them are examples of computer programming languages.
 
@@ -84,12 +84,4 @@ C. Write a program that calculates `2+3+4+5`
 
 Did you get `14`?
 
-Here are the solutions in video.
 
-
-Send us a screenshot with your programs to [viebel@gmail.com](mailto:viebel@gmail.com?Subject=Chapter%201).
-
-Now, you are ready for [chapter 2]({% post_url 2016-06-18-programming-kids-2 %}).
-
----
-[app-url]: http://app.klipse.tech?blog=klipse
