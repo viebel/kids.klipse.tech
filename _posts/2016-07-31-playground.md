@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playground"
-date:   2016-07-31 11:17:23 +0200
+date:   2016-07-30 11:17:23 +0200
 categories: clojure
 programming_course: true
 hidden: true
