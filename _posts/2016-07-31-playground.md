@@ -18,34 +18,34 @@ Enjoy!
 ![Play](/assets/images/playground_sanbox.jpg)
 
 ~~~klipse
-'()
+()
 ~~~
 
 ~~~klipse
-'()
+()
 ~~~
 
 ~~~klipse
-'()
+()
 ~~~
 
 ~~~klipse
-'()
+()
 ~~~
 
 ~~~klipse
-'()
+()
 ~~~
 
 ~~~klipse
-'()
+()
 ~~~
 
 ~~~klipse
-'()
+()
 ~~~
 
 ~~~klipse
-'()
+()
 ~~~
 
