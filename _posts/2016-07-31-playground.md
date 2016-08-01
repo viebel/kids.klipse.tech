@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Playground"
+title: "Playground with def, list and quote"
+description: "Clojure Playground klipse for kids. Computer programming course"
 date:   2016-07-30 11:17:23 +0200
 categories: clojure
 programming_course: true
@@ -12,6 +13,14 @@ author: "@viebel"
 
 
 Here is it the place for you to build whatever you want.
+
+
+Your lego blocks are:
+
+- `def`
+- `list`
+- `+`, `*`, `-`, `/`
+- `quote`
 
 Enjoy!
 
