@@ -5,7 +5,7 @@ draft: false
 
 ---
 <div class="section">
-  <section class="fixed v80" style='display: block; background-image: url("assets/images/{{ site.home_bgfile  }}");'>
+  <section class="fixed v80" style='display: block; background-image: url("assets/images/kids.png");'>
     <div class="container container-wide container-header">
       <br><br>
       <div class="white-text z-depth-5 radius-border opacity-background title-shadow">
@@ -20,8 +20,10 @@ draft: false
 
   <section class="v100">
     <div class="container container-wide">
-
-      {% for post in site.posts %}
+  <p>
+  {{ site.detailed_description }}
+  </p>
+      {% for post in site.posts  reversed %}
         <ul class="collection with-header">
           <li class="collection-header">
             <div>

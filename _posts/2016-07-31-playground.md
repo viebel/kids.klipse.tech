@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Playground with def, list and quote"
+title: "Playground 1: def, list and quote"
 description: "Clojure Playground klipse for kids. Computer programming course"
 date:   2016-07-30 11:17:23 +0200
 categories: clojure
