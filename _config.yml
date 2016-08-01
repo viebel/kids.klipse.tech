@@ -7,8 +7,7 @@ tagline: Klipse for Kids
 nutshell: A fun way to learn computer programming
 
 description: |
-  (A note to the parents: This tutorial's goal is to teach the kids the foundations of functional programming, in a fun and interactive way.
-  It is mostly based on Clojure and LISP.)
+  (A note to the parents: This tutorial's goal is to teach the kids the foundations of functional programming, in a fun and interactive way. It is mostly based on Clojure and LISP.)
 
 baseurl: "/"
 sass:
