@@ -17,3 +17,7 @@ sass:
 markdown: kramdown
 exclude:
     - vendor
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
