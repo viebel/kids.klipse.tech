@@ -22,6 +22,7 @@ The site is hosted by github with [github pages](https://pages.github.com/).
 
 This site is powered by [Jekyll](https://jekyllrb.com/).
 
+In order to run locally, clone the repo and the run the following commands on your terminal:
 
 ~~~bash
 git checkout gh-pages
@@ -30,6 +31,7 @@ jekyll serve --port 4001
 ~~~
 
 Open your browser at [http://localhost:4001](http://localhost:4001).
+
 Create/Edit a file under the `_posts` folder.
 
 Your are done.
