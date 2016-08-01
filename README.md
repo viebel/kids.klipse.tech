@@ -12,3 +12,28 @@ And here is an example of an interactive `clojure` code snippet, teaching the ki
 ![Demo](http://kids.klipse.tech/assets/images/demo_names.gif)
 
 
+# Contribution
+
+Pull requests are welcome: new articles, translations, any other ideas...
+
+The site is hosted by github with [github pages](https://pages.github.com/).
+
+# How to run locally?
+
+This site is powered by [Jekyll](https://jekyllrb.com/).
+
+
+~~~bash
+git checkout gh-pages
+bundle install
+jekyll serve --port 4001
+~~~
+
+Open your browser at [http://localhost:4001](http://localhost:4001).
+Create/Edit a file under the `_posts` folder.
+
+Your are done.
+
+
+
+
