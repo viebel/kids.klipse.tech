@@ -60,11 +60,11 @@ And using `a` instead of `(+ 3 4)` our expression becomes simpler:
 
 In order to use `def`, you need to compose an expression in the same way that you did with `+` and `*` in the previous chapters: with the **3 steps of an expression** that we introduced in [chapter 1]({% post_url 2016-01-01-programming-kids-1%}):
 
-1. First, you need to tell the computer that you want him to execute something. For that you use the parenthesis: `()`. 
+1. First, you need to tell the computer that you want it to execute something. For that you use the parenthesis: `()`. 
 
-2. Then, you need to tell him what `operation` you want him to execute: in our case, the operation is `def`.
+2. Then, you need to tell the computer what `operation` you want it to execute: in our case, the operation is `def`.
 
-3. Finally, you need to tell him what are the details of the `operands` for `def` operation: the first operand is the `name` you want to give to the expression and the second operand is the `expression` you want to name.
+3. Finally, you need to tell the computer what are the details of the `operands` for `def` operation: the first operand is the `name` you want to give to the expression and the second operand is the `expression` you want to name.
 
 Combining all of that, we get:
 
