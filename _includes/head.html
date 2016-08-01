@@ -1,24 +1,17 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--Import Google Icon Font-->
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon2.png">
+      <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicon2.png">
+      <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+      <meta name="description" content="{% if page.description %}{{ page.description}}{% else %}{{ site.description }}{% endif %}">
+      <!--Import css files-->
+      <link rel="stylesheet" href="/assets/css/main.css">
+      <link rel="stylesheet" href="/assets/css/materialize.css">
+      <link rel="stylesheet" href="/assets/css/styles.css">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description}}{% else %}{{ site.description }}{% endif %}">
-
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-
-  <!-- start: facebook -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:image" content="{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:description" content="{{ page.description }}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="article:author" content="{{ site.author }}">
-  <!-- end: facebook -->
-
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <meta http-equiv="Content-Language" content="pt-br">
+      <meta charset="utf-8"> 
 </head>

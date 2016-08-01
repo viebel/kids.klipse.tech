@@ -1,13 +1,15 @@
 ---
-title: Klipse for Kids
 email: viebel@gmail.com
 author: viebel
 author_github: viebel
-description: A fun way to learn computer programming
+title: Klipse for Kids
+tagline: Klipse for Kids
+nutshell: A fun way to learn computer programming
 
-detailed_description: |
-  (A note to the parents: This tutorial's goal is to teach the kids the foundations of computer programming, in a fun and interactive way.
+description: |
+  (A note to the parents: This tutorial's goal is to teach the kids the foundations of functional programming, in a fun and interactive way.
   It is mostly based on Clojure and LISP.)
+
 baseurl: "/"
 sass:
   sass_dir: assets/css
