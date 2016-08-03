@@ -24,7 +24,7 @@ Enough introduction, let's start to do some real programming.
 
 #  The 3 steps of an expression
 
-Let's imagine you don't remember your table of multiplications and you want the computer to calculate `7*8` for you. How are you going to do that?
+Let's imagine you don't remember your table of multiplications and you want the computer to calculate `7` multiplied by `8` for you. How are you going to do that?
 
 For that purpose, you will have to master the  **3 steps of an expression**:
 
