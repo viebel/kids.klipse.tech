@@ -19,4 +19,5 @@ exclude:
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-utf8
 

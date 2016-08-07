@@ -5,4 +5,5 @@ gem 'jekyll-sass-converter'
 gem 'sass'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
+gem 'jekyll-utf8'
 
