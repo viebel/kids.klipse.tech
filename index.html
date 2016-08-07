@@ -23,6 +23,7 @@ draft: false
   {{ site.description }}
   </p>
       {% for post in site.posts  reversed %}
+      {% unless post.hidden %}
         <ul class="collection with-header">
           <li class="collection-header">
             <div>
@@ -30,6 +31,7 @@ draft: false
             </div>
           </li>
         </ul>
+        {% endunless %}
       {% endfor %}
 
     </div>

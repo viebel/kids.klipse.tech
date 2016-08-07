@@ -4,8 +4,6 @@ title:  "Chapter 2: Expressions inside Expressions inside Expressions"
 description:  "programming for kids tutorial examples clojure nested expressions"
 date:   2016-06-18 21:17:23 +0200
 categories: clojure
-programming_course: true
-hidden: true
 thumbnail: assets/klipse.png
 guid: "C6CCCB84-BD23-4A61-B5E2-3A209A9EE2AF"
 author: "@viebel"

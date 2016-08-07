@@ -4,8 +4,6 @@ title:  "Chapter 3: Giving Names to Expressions"
 description:  "programming for kids tutorial examples clojure naming expressions"
 date:   2016-06-18 21:17:23 +0200
 categories: clojure
-programming_course: true
-hidden: true
 thumbnail: assets/klipse.png
 guid: "AB0B0C04-1C84-4597-AB73-1B382D2578C4"
 author: "@viebel"

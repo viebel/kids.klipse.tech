@@ -4,8 +4,6 @@ title:  "Chapter 1: What is computer programming?"
 description:  "programming for kids tutorial examples clojure"
 date:   2016-05-03 18:17:52 +0200
 categories: clojure
-programming_course: true
-hidden: true
 thumbnail: assets/klipse.png
 guid: "F7EB3559-E509-4AED-AC6F-D902CB3AD184"
 author: "@viebel"

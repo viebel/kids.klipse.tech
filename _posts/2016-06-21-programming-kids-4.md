@@ -4,8 +4,6 @@ title:  "Chapter 4: Evaluating Several Expressions"
 description:  "programming for kids tutorial examples clojure evaluating several expressions with list"
 date:   2016-06-21 21:17:23 +0200
 categories: clojure
-programming_course: true
-hidden: true
 thumbnail: assets/klipse.png
 guid: "35E2D040-CA44-4C9E-8C96-180298922658"
 author: "@viebel"
