@@ -24,7 +24,7 @@ draft: false
   </p>
       {% for post in site.posts  reversed %}
       {% unless post.hidden %}
-      {% if post.language == "cn" %}
+      {% if post.language == "fr" %}
         <ul class="collection with-header">
           <li class="collection-header">
             <div>
@@ -32,7 +32,7 @@ draft: false
             </div>
           </li>
         </ul>
-      {% endundless %}
+      {% endunless %}
         {% endif %}
       {% endfor %}
 
@@ -55,4 +55,5 @@ draft: false
       </ul>
     </div>
 </div>
+
 
