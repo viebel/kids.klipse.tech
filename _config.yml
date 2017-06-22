@@ -9,8 +9,6 @@ nutshell: A fun way to teach your kids LISP and Clojure
 description: |
   (A note to the parents: This tutorial's goal is to teach the kids the foundations of functional programming, in a fun and interactive way. It is mostly based on Clojure and LISP. The interactive code snippets are powered by <a href="https://github.com/viebel/klipse">Klipse</a>.)
 
-languages: ["en", "zh"]
-
 sass:
   sass_dir: assets/css
   style: compressed
@@ -21,4 +19,4 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-utf8
-  - jekyll-multiple-languages-plugin
+

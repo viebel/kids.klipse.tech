@@ -13,8 +13,6 @@ GEM
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
     jekyll-feed (0.5.1)
-    jekyll-multiple-languages-plugin (1.5.1)
-      jekyll (>= 2.0, < 4.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
@@ -41,7 +39,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed
-  jekyll-multiple-languages-plugin
   jekyll-paginate
   jekyll-sass-converter
   jekyll-sitemap
@@ -49,4 +46,4 @@ DEPENDENCIES
   sass
 
 BUNDLED WITH
-   1.15.1
+   1.12.5

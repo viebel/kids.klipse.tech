@@ -6,4 +6,4 @@ gem 'sass'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-utf8'
-gem 'jekyll-multiple-languages-plugin'
+
