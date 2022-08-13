@@ -2,11 +2,12 @@
 layout: post
 title: "游乐场 1: def, list and quote"
 description: "Clojure Playground klipse for kids. Computer programming course"
-date:   2016-07-30 11:17:23 +0200
+date:   2017-07-30 11:17:23 +0200
 categories: clojure
 thumbnail: assets/klipse.png
 guid: "B3689C8E-7021-4FE4-8F94-42B80995F277"
 author: "@viebel"
+language: cn
 ---
 
 

@@ -2,11 +2,12 @@
 layout: post
 title:  "第二章：嵌套表达式"
 description:  "用 Clojure 教小孩子编程：嵌套表达式"
-date:   2016-06-18 21:17:23 +0200
+date:   2017-06-18 21:17:23 +0200
 categories: clojure
 thumbnail: assets/klipse.png
 guid: "C6CCCB84-BD23-4A61-B5E2-3A209A9EE2AF"
 author: "@viebel"
+language: cn
 ---
 
 在 [前一章]({% post_url 2016-01-01-programming-kids-1%}) 里，你学会了用计算机语言构造 **简单的** 表达式。

@@ -7,6 +7,7 @@ categories: clojure
 thumbnail: assets/klipse.png
 guid: "F7EB3559-E509-4AED-AC6F-D902CB3AD184"
 author: "@viebel"
+language: en
 ---
 
 

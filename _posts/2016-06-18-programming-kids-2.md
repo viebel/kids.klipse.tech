@@ -7,6 +7,7 @@ categories: clojure
 thumbnail: assets/klipse.png
 guid: "C6CCCB84-BD23-4A61-B5E2-3A209A9EE2AF"
 author: "@viebel"
+language: en
 ---
 
 In the [previous chapter]({% post_url 2016-01-01-programming-kids-1%}), you have learned to compose **simple** expressions in computer programming language.
