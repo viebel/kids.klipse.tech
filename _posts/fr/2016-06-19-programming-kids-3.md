@@ -25,7 +25,7 @@ translator: "@ggeoffrey"
 
 
 <!-- In the [previous chapter]({% post_url 2016-06-18-programming-kids-2 %}), you have learned to compose **nested** expressions in computer programming language. -->
-Dans le [chapitre précédent]({% post_url 2016-06-18-programming-kids-2 %}), tu as appris à composer des expressions **imbriquées** dans un langage de programmation.
+Dans le [chapitre précédent]({% post_url fr/2016-06-18-programming-kids-2 %}), tu as appris à composer des expressions **imbriquées** dans un langage de programmation.
 
 <!-- In this chapter, you are going to learn how to name expressions. -->
 Dans ce chapitre tu vas apprendre à donner un nom à des expressions.
@@ -88,7 +88,7 @@ En utilisant `a` à la place de `(+ 3 4)`, l'expression devient plus simple :
 `def` est une `opération` qui dit à l'ordinateur de donner un `nom` à une `expression`. (Le mot `def` est un surnom pour `définir`).
 
 <!-- In order to use `def`, you need to compose an expression in the same way that you did with `+` and `*` in the previous chapters: with the **3 steps of an expression** that we introduced in [chapter 1]({% post_url 2016-01-01-programming-kids-1%}): -->
-Pour utiliser `def`, tu dois composer une expression de la même façon que tu l'as fait avec `+` et `*` dans les chapitres précédents : avec les **3 étapes d'une expression** que nous avons vu dans le [chapitre 1]({% post_url 2016-01-01-programming-kids-1%}) :
+Pour utiliser `def`, tu dois composer une expression de la même façon que tu l'as fait avec `+` et `*` dans les chapitres précédents : avec les **3 étapes d'une expression** que nous avons vu dans le [chapitre 1]({% post_url fr/2016-01-01-programming-kids-1%}) :
 
 <!-- 1. First, you need to tell the computer that you want it to execute something. For that you use the parenthesis: `()`. -->
 <!-- 2. Then, you need to tell the computer what `operation` you want it to execute: in our case, the operation is `def`. -->

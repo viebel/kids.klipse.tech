@@ -25,7 +25,7 @@ translator: "@ggeoffrey"
 
 
 <!-- In the [previous chapter]({% post_url 2016-01-01-programming-kids-1%}), you have learned to compose **simple** expressions in computer programming language. -->
-Dans le [chapitre précédent]({% post_url 2016-01-01-programming-kids-1 %}), tu as appris à écrire des expressions **simples** dans un langage de programmation.
+Dans le [chapitre précédent]({% post_url fr/2016-01-01-programming-kids-1 %}), tu as appris à écrire des expressions **simples** dans un langage de programmation.
 
 <!-- In this chapter, you are going to learn how to compose **nested** expressions: expressions inside expressions inside expressions... -->
 Dans ce chapitre, tu vas apprendre à écrire des expressions **imbriquées** : des expressions dans des expressions dans des expressions…
@@ -45,7 +45,7 @@ Tu dois te demander à quoi peut bien servir une expression contenu dans une exp
 Voici un exemple. Composons une expression **imbriquées** qui ajoute `3` et `4` et qui multiplie ce résultat par `5`.
 
 <!-- For that, we are going to use again the **3 steps of an expression** that we introduced in [previous chapter]({% post_url 2016-01-01-programming-kids-1%}): -->
-Pour ça nous allons réutiliser les **3 étapes d'une expression** que nous avons appris dans le [chapitre précédent]({% post_url 2016-01-01-programming-kids-1%}):
+Pour ça nous allons réutiliser les **3 étapes d'une expression** que nous avons appris dans le [chapitre précédent]({% post_url fr/2016-01-01-programming-kids-1%}):
 
 <!-- 1. First, you need to tell the computer that you want it to execute something. For that you use the parenthesis: `()`. The computer will execute for you the content of the parenthesis. -->
 <!-- 2. Then, you need to tell the computer what `operation` you want it to execute: in our case, the operation is the multiplication. -->

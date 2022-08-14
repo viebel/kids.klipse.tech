@@ -25,7 +25,7 @@ translator: "@ggeoffrey"
 
 <!-- In the [previous chapter]({% post_url 2016-06-19-programming-kids-3 %}), you have learned to give names to expressions. -->
 
-Dans le [chapitre précédent]({% post_url 2016-06-19-programming-kids-3 %}), tu as appris à donner un nom à des expressions.
+Dans le [chapitre précédent]({% post_url fr/2016-06-19-programming-kids-3 %}), tu as appris à donner un nom à des expressions.
 
 <!-- Until now, you have learned how to tell the computer to evaluate one expression. If you write several expression inside a box, the computer will display only the result of the last expression. -->
 Jusque maintenant, tu as appris comment dire à l'ordinateur d'évaluer une expression. Si tu écris plusieurs expressions dans une boîte de code, l'ordinateur n'affichera que le résultat de la dernière expression.
