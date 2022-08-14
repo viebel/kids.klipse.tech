@@ -3,7 +3,7 @@ layout: post
 title:  "第一章：什么是编程？"
 description:  "用 Clojure 教小孩子编程"
 date:   2017-05-03 18:17:52 +0200
-categories: clojure
+categories: cn
 thumbnail: assets/klipse.png
 guid: "F7EB3559-E509-4AED-AC6F-D902CB3AD184"
 author: "@viebel"

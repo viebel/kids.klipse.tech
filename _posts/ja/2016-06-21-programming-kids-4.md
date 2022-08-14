@@ -3,7 +3,7 @@ layout: post
 title:  "4 章 : いくつかの式を評価する"
 description:  "子供向けプログラミングチュートリアル Clojure リストで複数の式を評価する"
 date:   2016-06-21 21:17:23 +0200
-categories: clojure
+categories: ja
 thumbnail: assets/klipse.png
 guid: "35E2D040-CA44-4C9E-8C96-180298922658"
 author: "@viebel"

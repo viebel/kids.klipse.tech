@@ -3,7 +3,7 @@ layout: post
 title:  "第三章：给表达式起名字"
 description:  "用 Clojure 教小孩子编程：命名表达式"
 date:   2017-06-18 21:17:23 +0200
-categories: clojure
+categories: cn
 thumbnail: assets/klipse.png
 guid: "AB0B0C04-1C84-4597-AB73-1B382D2578C4"
 author: "@viebel"

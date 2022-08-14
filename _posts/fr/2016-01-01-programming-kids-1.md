@@ -3,7 +3,7 @@ layout: post
 title:  "Chapitre 1: Qu'est ce que la programmation informatique ?"
 description:  "exemple de programmation en clojure pour les enfants"
 date:   2016-08-13 18:17:52 +0200
-categories: clojure
+categories: fr
 thumbnail: assets/klipse.png
 guid: "F7EB3559-E509-4AED-AC6F-D902CB3AD184"
 author: "@viebel"

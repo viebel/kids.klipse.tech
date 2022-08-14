@@ -3,7 +3,7 @@ layout: post
 title:  "3 章 : 表現に名前をつける"
 description:  "子供向けプログラミング チュートリアル Clojure の命名式"
 date:   2016-06-18 21:17:23 +0200
-categories: clojure
+categories: ja
 thumbnail: assets/klipse.png
 guid: "AB0B0C04-1C84-4597-AB73-1B382D2578C4"
 author: "@viebel"

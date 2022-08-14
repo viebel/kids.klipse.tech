@@ -3,7 +3,7 @@ layout: post
 title: "Salle de jeu 1: def, list et quote"
 description: "Clojure Playground klipse for kids. Computer programming course"
 date:   2016-08-15 22:16:23 +0200
-categories: clojure
+categories: fr
 thumbnail: assets/klipse.png
 guid: "B3689C8E-7021-4FE4-8F94-42B80995F277"
 author: "@viebel"

@@ -3,7 +3,7 @@ layout: post
 title:  "1 章 : コンピューター・プログラミングとは？"
 description:  "子供のためのプログラミングチュートリアル Clojure の例"
 date:   2016-05-03 18:17:52 +0200
-categories: clojure
+categories: ja
 thumbnail: assets/klipse.png
 guid: "F7EB3559-E509-4AED-AC6F-D902CB3AD184"
 author: "@viebel"

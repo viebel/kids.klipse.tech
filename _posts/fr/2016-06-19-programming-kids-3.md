@@ -3,7 +3,7 @@ layout: post
 title:  "Chapitre 3: Donner un nom aux expressions"
 description: "Tutoriel de programmation pour les enfants à propos du nomage des expressions en clojure"
 date:   2016-08-13 23:06:23 +0200
-categories: clojure
+categories: fr
 thumbnail: assets/klipse.png
 guid: "AB0B0C04-1C84-4597-AB73-1B382D2578C4"
 author: "@viebel"

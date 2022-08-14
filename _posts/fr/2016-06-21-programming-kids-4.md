@@ -3,7 +3,7 @@ layout: post
 title:  "Chapitre 4: Évaluer plusieurs expressions"
 description: "Tutoriel de programmation pour les enfants à propos de l'évaluation d'un ensemble d'expressions via des listes"
 date:   2016-08-14 15:28:10 +0200
-categories: clojure
+categories: fr
 thumbnail: assets/klipse.png
 guid: "35E2D040-CA44-4C9E-8C96-180298922658"
 author: "@viebel"

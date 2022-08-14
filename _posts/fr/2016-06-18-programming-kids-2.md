@@ -3,7 +3,7 @@ layout: post
 title: "Chapitre 2: Des expressions dans des expressions dans des expressions"
 description: "Tutoriel de programmation pour les enfants à propos des expressions imbriquées en clojure"
 date: 2016-08-13 21:17:23 +0200
-categories: clojure
+categories: fr
 thumbnail: assets/klipse.png
 guid: "C6CCCB84-BD23-4A61-B5E2-3A209A9EE2AF"
 author: "@viebel"

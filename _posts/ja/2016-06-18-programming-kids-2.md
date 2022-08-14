@@ -3,7 +3,7 @@ layout: post
 title:  "2 章 : 表現の中の表現"
 description:  "子供向けプログラミングチュートリアル Clojure のネストされた式"
 date:   2016-06-18 21:17:23 +0200
-categories: clojure
+categories: ja
 thumbnail: assets/klipse.png
 guid: "C6CCCB84-BD23-4A61-B5E2-3A209A9EE2AF"
 author: "@viebel"
