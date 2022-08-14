@@ -42,9 +42,16 @@ nav {
   }
 
 
+  .flags {
+    padding-left: 10px;
+  }
+  .flag {
+    height: 30px;
+    width: 40px;
+  }
   // Logo
   .brand-logo {
-    position: absolute;
+    margin-top: -150px;
     color: $navbar-font-color;
     display: inline-block;
     font-size: $navbar-brand-font-size;
